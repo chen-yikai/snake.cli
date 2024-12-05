@@ -1,0 +1,14 @@
+/home/elias/projects/snake_cli/bin/Debug/net8.0/snake_cli
+/home/elias/projects/snake_cli/bin/Debug/net8.0/snake_cli.deps.json
+/home/elias/projects/snake_cli/bin/Debug/net8.0/snake_cli.runtimeconfig.json
+/home/elias/projects/snake_cli/bin/Debug/net8.0/snake_cli.dll
+/home/elias/projects/snake_cli/bin/Debug/net8.0/snake_cli.pdb
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.GeneratedMSBuildEditorConfig.editorconfig
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.AssemblyInfoInputs.cache
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.AssemblyInfo.cs
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.csproj.CoreCompileInputs.cache
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.dll
+/home/elias/projects/snake_cli/obj/Debug/net8.0/refint/snake_cli.dll
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.pdb
+/home/elias/projects/snake_cli/obj/Debug/net8.0/snake_cli.genruntimeconfig.cache
+/home/elias/projects/snake_cli/obj/Debug/net8.0/ref/snake_cli.dll
